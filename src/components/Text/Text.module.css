@@ -1,0 +1,7 @@
+.textLabel {
+  text-transform: capitalize;
+  color: var(--secondary-text-color);
+  margin: 0.2rem;
+  margin-right: 1rem;
+  font-family: var(--font-medium);
+}
